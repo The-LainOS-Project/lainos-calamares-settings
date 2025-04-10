@@ -1,2 +1,2 @@
 # lainos-calamares-settings
-Calamares Configuration for LainOS
+Configuration for Calamares in LainOS

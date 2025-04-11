@@ -16,9 +16,9 @@ strings:
     versionedName:       LainOS 2025.04 Layer1: "Accela""
     shortVersionedName:  LainOS
     bootloaderEntryName: LainOS
-    productUrl:          https://dtos.dev/
-    supportUrl:          https://dtos.dev/
-    releaseNotesUrl:     https://dtos.dev/
+    productUrl:          https://lainos.dev/
+    supportUrl:          https://lainos.dev/
+    releaseNotesUrl:     https://lainos.dev/
 
 
 uploadServer :
